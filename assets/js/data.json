@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "productName": "Bút chì",
+      "sku": "10007525",
+      "qty": "10",
+      "barcode": "12345678901"
+    },
+    {
+      "productName": "Máy in XPrinter",
+      "sku": "10007526",
+      "qty": "1",
+      "barcode": "12345678902"
+    },
+    {
+      "productName": "Cuộn giấy in tem",
+      "sku": "10007527",
+      "qty": "10",
+      "barcode": "12345678903"
+    },
+    {
+      "productName": "iPhone 11",
+      "sku": "10007528",
+      "qty": "10",
+      "barcode": "12345678904"
+    }
+  ]
+}
